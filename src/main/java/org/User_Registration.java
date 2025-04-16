@@ -6,5 +6,6 @@ public class User_Registration {
 
         System.out.println("input");
         System.out.println("p");
+        System.out.println("rere");
     }
 }
